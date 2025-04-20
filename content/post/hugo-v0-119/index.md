@@ -2,7 +2,7 @@
 title: "Hugo v0.119.0"
 description: ""
 date: 2023-09-24
-draft: false
+draft: true
 images: ["hugo-logo.png"]
 categories: ["Hugo Release Notes"]
 tags: ["Hugo"]
