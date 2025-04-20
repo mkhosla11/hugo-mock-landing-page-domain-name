@@ -15,15 +15,26 @@ This site is a live demonstration of brand storytelling, user feature illustrati
 
 ## 🚀 Live Preview
 
-🌐 [Visit the Live Site](https://mkhosla11.github.io/hugo-mock-landing-page/)  
+🌐 [Visit the Live Site](https://mkhosla11.github.io/hugo-mock-landing-page-autodeployed/)  
 (Hosted via GitHub Pages on the `gh-pages` branch)
 
-## 🛠 Local Development
+## 🔄 GitHub Actions: Build & Deploy Automation
 
-```bash
-# Clone the repo
-git clone https://github.com/mkhosla11/hugo-mock-landing-page.git
-cd hugo-mock-landing-page
+This project uses a **GitHub Actions workflow** to automatically build and deploy the MindTap Meditation landing page to **GitHub Pages**. Every time changes are pushed to the `main` branch, the workflow performs the following:
 
-# Run the Hugo server locally
-hugo server
+1. **Checks out the repository**  
+   Including any Hugo themes added as submodules, with full Git history to support `.GitInfo` and `.Lastmod`.
+
+2. **Initializes the Hugo environment**  
+   Installs Hugo Extended v0.144.1 using the `peaceiris/actions-hugo` GitHub Action.
+
+3. **Compiles the static site**  
+   Runs the command `hugo -D --gc --minify` to:
+   - Include drafts
+   - Run garbage collection
+   - Minify the output for faster loading
+
+4. **Deploys to GitHub Pages**  
+   Uses `peaceiris/actions-gh-pages` to publish the generated content to the `gh-pages` branch.
+
+The entire process is automated and ensures your Hugo site is always up-to-date and deployed live with minimal manual work.
