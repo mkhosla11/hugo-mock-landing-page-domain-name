@@ -9,7 +9,7 @@ timeZone = 'Europe/London'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-theme = "github.com/filipecarneiro/hugo-bootstrap-theme"
+theme = "hugo-bootstrap-theme"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
