@@ -20,8 +20,4 @@ A new &lt;a href="https://gohugo.io/functions/images/#opacity" target="_blank" r
 &lt;p>Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.&lt;/p></description></item><item><title>Hugo v0.99.1</title><link>http://mindtap.store/post/hugo-v0-99/</link><pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate><guid>http://mindtap.store/post/hugo-v0-99/</guid><description>&lt;p>&lt;img src="hugo-logo.svg" alt="Hugo">
 { .img-fluid .mb-5 }&lt;/p>
 &lt;p>Fix server regression for multihost sites (multiple languages with different baseURLs).&lt;/p>
-&lt;p>&lt;a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Release Notes on GitHub&lt;/a>.&lt;/p></description></item><item><title>Bootstrap 5.2.0 beta</title><link>http://mindtap.store/post/bootstrap-5-2-0-beta/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>http://mindtap.store/post/bootstrap-5-2-0-beta/</guid><description>&lt;p>&lt;img src="bootstrap-5-2-0-beta.png" alt="Bootstrap 5 2 0 Beta">
-{ .img-fluid }&lt;/p>
-&lt;blockquote>
-&lt;p>It’s the biggest release since v5 itself—&lt;strong>Bootstrap v5.2.0-beta1 is here!&lt;/strong> This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p>&lt;/blockquote>
-&lt;p>Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href="https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/" target="_blank" rel="noopener">Keep reading for details&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Release Notes on GitHub&lt;/a>.&lt;/p></description></item></channel></rss>
