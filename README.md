@@ -15,7 +15,7 @@ This site is a live demonstration of brand storytelling, user feature illustrati
 
 ## 🚀 Live Preview
 
-🌐 [Visit the Live Site](https://mkhosla11.github.io/hugo-mock-landing-page-autodeployed/)  
+🌐 https://mindtap.store/
 (Hosted via GitHub Pages on the `gh-pages` branch)
 
 ## 🔄 GitHub Actions: Build & Deploy Automation
