@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MindTap Meditations</title><link>http://mindtap.store/</link><description>Recent content on MindTap Meditations</description><generator>Hugo</generator><language>en</language><copyright>Mona Khosla</copyright><lastBuildDate>Mon, 21 Apr 2025 03:08:08 +0000</lastBuildDate><atom:link href="http://mindtap.store/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo v0.119.0</title><link>http://mindtap.store/post/hugo-v0-119/</link><pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate><guid>http://mindtap.store/post/hugo-v0-119/</guid><description>&lt;p>&lt;img src="hugo-logo.svg" alt="Hugo">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MindTap Meditations</title><link>http://mindtap.store/</link><description>Recent content on MindTap Meditations</description><generator>Hugo</generator><language>en</language><copyright>Mona Khosla</copyright><lastBuildDate>Mon, 21 Apr 2025 03:17:52 +0000</lastBuildDate><atom:link href="http://mindtap.store/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo v0.119.0</title><link>http://mindtap.store/post/hugo-v0-119/</link><pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate><guid>http://mindtap.store/post/hugo-v0-119/</guid><description>&lt;p>&lt;img src="hugo-logo.svg" alt="Hugo">
 { .img-fluid .mb-5}&lt;/p>
 &lt;p>This version is built with Go 1.21.1 which contains some relevant security fixes for the html/template package, see &lt;a href="https://github.com/golang/go/issues/62196" target="_blank" rel="noopener">Issue 62196&lt;/a> and &lt;a href="https://github.com/golang/go/issues/62197" target="_blank" rel="noopener">Issue 62197&lt;/a>. This is the main reason Hugo 0.119.0 is released sooner rather than later. But this release also comes with a dependency refresh and some useful image processing improvements:&lt;/p>
 &lt;p>A new general-purpose &lt;a href="https://gohugo.io/content-management/image-processing/#process" target="_blank" rel="noopener">Process&lt;/a> method and filter.
@@ -29,32 +29,7 @@ A new &lt;a href="https://gohugo.io/functions/images/#opacity" target="_blank" r
 &lt;blockquote>
 &lt;p>It’s the biggest release since v5 itself—&lt;strong>Bootstrap v5.2.0-beta1 is here!&lt;/strong> This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p>&lt;/blockquote>
 &lt;p>Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href="https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/" target="_blank" rel="noopener">Keep reading for details&lt;/a>.&lt;/p></description></item><item><title>About</title><link>http://mindtap.store/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://mindtap.store/about/</guid><description>&lt;h1 id="about-us">About Us&lt;/h1>
-&lt;p>Made with ❤️ by the &lt;em>Hugo Bootstrap Theme&lt;/em> &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">team&lt;/a>.&lt;/p></description></item><item><title>Bootstrap Components ✨</title><link>http://mindtap.store/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://mindtap.store/page/bootstrap-components/</guid><description>&lt;h1 id="bootstrap-components">Bootstrap Components&lt;/h1>
-&lt;p>Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.&lt;/p>
-&lt;hr>
-&lt;h2 id="accordion">Accordion&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/accordion/" target="_blank" rel="noopener">Accordion documentation&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h2 id="alert">Alert&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/alerts/" target="_blank" rel="noopener">Alert documentation&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h2 id="badge">Badge&lt;/h2>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;!-- raw HTML omitted -->Rounded pill&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>Code of Conduct</title><link>http://mindtap.store/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://mindtap.store/code-of-conduct/</guid><description>&lt;h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct&lt;/h1>
+&lt;p>Made with ❤️ by the &lt;em>Hugo Bootstrap Theme&lt;/em> &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">team&lt;/a>.&lt;/p></description></item><item><title>Code of Conduct</title><link>http://mindtap.store/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://mindtap.store/code-of-conduct/</guid><description>&lt;h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct&lt;/h1>
 &lt;h2 id="our-pledge">Our Pledge&lt;/h2>
 &lt;p>We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
